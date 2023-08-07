@@ -1,4 +1,5 @@
-[
+{
+ "products": [
   {
     "id": 1,
     "img": "/images/prod1.png",
@@ -63,4 +64,8 @@
     "price": 3699,
     "quantity": 1
   }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
